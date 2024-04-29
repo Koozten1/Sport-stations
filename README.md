@@ -1,2 +1,2 @@
-# Sprot-stations
+# Sport-stations
 Станции для аунтификации спортсменова 
