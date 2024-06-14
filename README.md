@@ -1,6 +1,5 @@
 ## Вид стацнии 
-<img src="materials/station_type_1.jpg" width="300" height="300">
-<img src="materials/station_type_2.jpg" width="300" height="300">
+<img src="materials/station_type_1.jpg" width="300" height="300"> <img src="materials/station_type_2.jpg" width="300" height="300">
 <img src="materials/station_type_3.jpg" width="200" height="300"> 
 
 ## Электронная схема 
